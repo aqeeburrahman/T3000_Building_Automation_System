@@ -18,7 +18,7 @@ public:
 
 protected:
 	virtual void DoDataExchange(CDataExchange* pDX);    // DDX/DDV Ö§³Ö
-    //CWebBrowser2 m_browser;
+    CWebBrowser2 m_browser;
 	DECLARE_MESSAGE_MAP()
 public:
     virtual BOOL OnInitDialog();

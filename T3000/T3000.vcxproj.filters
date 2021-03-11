@@ -726,48 +726,6 @@
     <ClCompile Include="TstatAQ.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BancetProperty.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BacnetSettingBasicInfo.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BacnetSettingDyndns.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BacnetSettingTime.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BacnetSettingTcpip.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BacnetEmailAlarm.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BacnetSettingParamter.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CO2_AUTO_CALIBRATION.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BacnetWeb.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BacnetThirdPartyMain.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TstatSetpointDetail.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="TstatAQI_Detail.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CustomSource\JPGLoader.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CustomSource\Splash.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="res\ApplyDisable.bmp">
@@ -1913,51 +1871,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TstatAQ.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BancetProperty.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetSettingBasicInfo.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetSettingDyndns.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetSettingTime.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetSettingTcpip.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetEmailAlarm.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetMonitor.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetSettingParamter.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CO2_AUTO_CALIBRATION.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetWeb.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BacnetThirdPartyMain.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="TstatSetpointDetail.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="TstatAQI_Detail.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CustomSource\JPGLoader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CustomSource\Splash.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
